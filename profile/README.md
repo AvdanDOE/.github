@@ -10,7 +10,7 @@ Finally, making Linux usable for you. With nearly all the goodies seen in the or
 
 #### DE or Distro?
 
-AvdanDOE is a Linux distribution based on Arch Linux. Tt comes with the best parts of a rolling release base, with bleeding edge updates, and (theoretically) no End-Of-Life.
+AvdanDOE is a Linux distribution based on Arch Linux. It comes with the best parts of a rolling release base, with bleeding edge updates, and (theoretically) no End-Of-Life.
 
 #### Licensing and contribution
 
