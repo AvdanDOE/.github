@@ -20,8 +20,7 @@ The project will be licensed under GNU GPLv3 after full release.
 
 #### ETA
 
-Unknown, but the first preview/alpha release should not take too long to arrive.<br>
-(Do note that Alpha releases are likely not suitable for daily use) 
+We already have a POC ISO! Look in Discord/Telegram to download it, and stay tuned for more!
 
 #### More questions?
 
