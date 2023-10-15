@@ -1,4 +1,6 @@
-# AvdanDOE
+# AvdanDOE HAS BEEN DISCONTINUED.
+
+Below you can see what the original readme was:
 
 Your experience is bein' cooked. And you can watch it too.
 
